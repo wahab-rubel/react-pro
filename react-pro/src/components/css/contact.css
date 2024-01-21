@@ -1,0 +1,19 @@
+.contact{
+
+    text-align: center;
+    font-size: 2rem;
+    color: #194D33;
+}
+.container{
+    text-align: center;
+    background: #1efcfc ;
+    border: #194D33;
+    border-radius: 9rem;
+    box-sizing: border-box;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    margin-bottom: 1.5rem;
+
+    width: 100%;
+    padding: 20px;
+}
